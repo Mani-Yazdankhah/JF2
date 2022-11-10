@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a37bdfd2-ebfe-4c5d-aea6-29f8b3040957" name="Changes" comment="Added functions">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFundementals2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharCounter_LUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharCounter_ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharCounter_toUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordReverser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HLtGDz9Mby6N6Zp4ECKvxoSpvN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CharCounter_LUT">
+    <configuration name="CharCounter_LUT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharCounter_LUT" />
+      <module name="JavaFundementals2" />
+      <option name="PROGRAM_PARAMETERS" value="Hey, how are you?" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharCounter_ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharCounter_ternary" />
+      <module name="JavaFundementals2" />
+      <option name="PROGRAM_PARAMETERS" value="Hey, how are you?" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharCounter_toUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharCounter_toUpper" />
+      <module name="JavaFundementals2" />
+      <option name="PROGRAM_PARAMETERS" value="Hey, how are you?" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordReverser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordReverser" />
+      <module name="JavaFundementals2" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;The sun rises in the east&quot; &quot;ehT nus sesir ni eht tsae&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordReverser" />
+      <item itemvalue="Application.CharCounter_toUpper" />
+      <item itemvalue="Application.CharCounter_ternary" />
+      <item itemvalue="Application.CharCounter_LUT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CharCounter_LUT" />
+        <item itemvalue="Application.WordReverser" />
+        <item itemvalue="Application.CharCounter_toUpper" />
+        <item itemvalue="Application.CharCounter_ternary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37bdfd2-ebfe-4c5d-aea6-29f8b3040957" name="Changes" comment="" />
+      <created>1668076096491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668076096491</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functions" />
+  </component>
+</project>
